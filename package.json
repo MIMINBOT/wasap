@@ -1,5 +1,5 @@
 {
-  "name": "ALFBOT",
+  "name": "MIMIN NETBOT",
   "version": "1.0.0",
   "description": "bot termux",
   "main": "index.js",
@@ -39,10 +39,10 @@
   "keywords": [
     "k"
   ],
-  "author": "Abdul Muttaqin",
+  "author": "Ibnu Nur Ramadani",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/alfiansx/alfbot/issues"
+    "url": "https://github.com/MIMINBOT/wasap/issues"
   },
-  "homepage": "https://github.com/alfiansx/alfbot#readme"
+  "homepage": "https://github.com/MIMINBOT/wasap#readme"
 }
