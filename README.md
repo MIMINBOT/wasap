@@ -1,4 +1,4 @@
-## Alf Bot
+## MIMIN NETBOT
 BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 
 
@@ -17,7 +17,7 @@ BOT WHATSAPP YANG BISA DIGUNAKAN DI TERMUX
 > pkg install nodejs
 > apt update && apt upgrade
 > git clone https://github.com/alfiansx/alfbot
-> cd alfbot
+> cd 
 > bash install.sh
 > npm i node-tesseract-ocr
 > pkg install tesseract
